@@ -1,10 +1,8 @@
 # Spotify Geo Dashboard
 
+The aim of this project is to build a dashboard where the user can analyse geographically derieved 'audio profiles' based on audio features over time.
+
 ![image_header](https://raw.githubusercontent.com/JamesBarryMusic/Spotify-Geo-Dashboard/main/assets/SPOTIFY_GEO_DASHBOARD.png)
-
-The aim of this project is to map and analyse the 'audio profiles' of different countries based on audio features over time.
-The data is presented in a web app coded in Python using the [Plotly Dash](https://github.com/plotly/dash) package.
-
 
 
 ## How the webpage works?

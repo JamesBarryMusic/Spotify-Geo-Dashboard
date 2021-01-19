@@ -1,6 +1,6 @@
 # Spotify Geo Dashboard
 
-*Spotify Geo Dashboard* is a dashboard where the user can analyse geographically derieved 'audio profiles' based on audio features over time.
+*Spotify Geo Dashboard* is a dashboard where the user can analyse geographically derived 'audio profiles' based on audio features over time.
 
 ![image_header](https://raw.githubusercontent.com/JamesBarryMusic/Spotify-Geo-Dashboard/main/assets/SPOTIFY_GEO_DASHBOARD.png)
 
